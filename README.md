@@ -1,8 +1,7 @@
 # $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$$
 # ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ 
 # $$\mathbb{\color{green}\Huge\ {ALX} \ \color{teal}{Front \ End}\}$$ $$\mathbb{\color{green}\Huge\ {Specialization}\}$$
-# $$\mathbb{\color{blue}\Huge\ {Portofolio}\}$$ $$\mathbb{\color{green}\Huge\ {Project}\}$$
-# $$\mathbb{\color{teal}\Huge\ {Repository}\}$$
+# $$\mathbb{\color{teal}\Huge\ {Portofolio}\}$$ $$\mathbb{\color{green}\Huge\ {Project}\}$$ $$\mathbb{\color{teal}\Huge\ {Repository}\}$$
 # ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
 <br>
 
@@ -16,10 +15,11 @@
 
 **Ethio-Properties is Ethiopia's Real Estate Properties listing web application developed using React, HTML, and CSS. Ethio-Properties website app is a User-friendly interface, Real-time updates, use mock API tools to simulate backend functionality, Advanced search filters (location, price, property type). It allows users to browse, search, sort, and filter property listings, as well as contact sellers and manage property listings with user authentication.**
 <br>
+<br>
+
 To The future It will adding and allows secure payment gateways, interactive maps, Review and rating system for properties and agents.  with Detailed property listings of photos and videos, virtual tours, Clear and consistent pricing information, Interactive maps for accurate site locations and Direct messaging between buyers and sellers.
 
-<br>
-<br>
+##
 
 # Table of Contents
 
