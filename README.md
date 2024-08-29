@@ -1,27 +1,29 @@
-# $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$$
-# ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$
-# $$\mathbb{\color{green}\Huge\ {ALX} \ \color{teal}{Front \ End}\}$$
-# $$\mathbb{\color{green}\Huge\ {Specialization \ Portofolio \ Project}\}$$
+# $\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$
+# ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ 
+# $$\mathbb{\color{green}\Huge\ {ALX} \ \color{teal}{Front \ End}\}$$ $$\mathbb{\color{green}\Huge\ {Specialization}\}$$
+# $$\mathbb{\color{blue}\Huge\ {Portofolio}\}$$ $$\mathbb{\color{green}\Huge\ {Project}\}$$
 # $$\mathbb{\color{teal}\Huge\ {Repository}\}$$
-# ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
+# ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
 
 <br>
 <br>
 
 ### [**ALX Short Specializations Portfolio project**](https://intranet.alxswe.com/projects/1248) *is the portfolio project of the Webstack specialization Repo of the last-major-project of the  end my pathway at Holberton.*
-* ***Authored by:*** ***Bereket Dereje Mekonnen***
+### <ins>**Authored by</ins>:*** 
+* **Bereket Dereje Mekonnen***
 
 ##
 
-<H1 align="center", height="5500"> 🏡🏬🏠🏢🏠🏭🏬🏡🏢 <br> <ins>Ethio-Properties Web App</ins> <br>🏢🏡🏬🏭🏠🏢🏠🏬🏡</H1>
+<H1 align="center", height="5500"> 🏡🏬🏠🏢🏭 <ins>Ethio-Properties Web App</ins> 🏭🏢🏠🏬🏡</H1>
 
-Ethio-Properties is Ethiopia's Real Estate Properties listing web application developed using React, HTML, and CSS. Ethio-Properties website app is a User-friendly interface, Real-time updates, use mock API tools to simulate backend functionality, Advanced search filters (location, price, property type). It allows users to browse, search, sort, and filter property listings, as well as contact sellers and manage property listings with user authentication.<br>
-To The future It will adding and allows secure payment gateways, interactive maps, Review and rating system for properties and agents.  with Detailed property listings of photos and videos, virtual tours, Clear and consistent pricing information, Interactive maps for accurate site locations and Direct messaging between buyers and sellers.
-
+### Ethio-Properties is Ethiopia's Real Estate Properties listing web application developed using React, HTML, and CSS. Ethio-Properties website app is a User-friendly interface, Real-time updates, use mock API tools to simulate backend functionality, Advanced search filters (location, price, property type). It allows users to browse, search, sort, and filter property listings, as well as contact sellers and manage property listings with user authentication.
 <br>
 <br>
+**To The future It will adding and allows secure payment gateways, interactive maps, Review and rating system for properties and agents.  with Detailed property listings of photos and videos, virtual tours, Clear and consistent pricing information, Interactive maps for accurate site locations and Direct messaging between buyers and sellers.**
 
-## Table of Contents
+<br>
+
+# Table of Contents
 
 - [Project Architecture](#project-architecture)
 - [Setup Instructions](#setup-instructions)
@@ -35,13 +37,54 @@ To The future It will adding and allows secure payment gateways, interactive map
 ##
 
 
-## Project Architecture
+# Project Architecture
 
 The project is structured as follows:
 
-ethio-properties/ │ ├── public/ │ ├── images/ │ │ ├── logo_with_name.png │ │ ├── ET33c.png │ │ ├── logo-white.png │ ├── index.html │ ├── et-styles.css │ └── favicon.ico │ ├── src/ │ ├── assets/ │ ├── components/ │ │ ├── Header.js │ │ ├── Footer.js │ │ ├── PropertyCard.js │ │ ├── PropertyList.js │ │ ├── SearchBar.js │ │ ├── Pagination.js │ │ ├── Sorting.js │ │ ├── ContactForm.js │ │ ├── Authentication.js │ ├── mockData.js │ ├── App.js │ ├── index.js │ └── App.css │ ├── .gitignore ├── package.json └── README.md
-
-<br>
+ethio-properties/
+│
+├── public/
+│   ├── index.html
+│   ├── images/
+│   │   ├── logo_with_name.png
+│   │   ├── ET33c.png
+│   │   ├── property1.jpg
+│   │   ├── property2.jpg
+│   │   └── property3.jpg
+│   └── favicon.ico
+│
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Footer.js
+│   │   ├── PropertyList.js
+│   │   ├── PropertyCard.js
+│   │   ├── SearchBar.js
+│   │   ├── Pagination.js
+│   │   ├── Sorting.js
+│   │   ├── ContactForm.js
+│   │   └── Authentication.js
+│   │
+│   ├── data/
+│   │   ├── mockProperties.js
+│   │
+│   ├── pages/
+│   │   ├── HomePage.js
+│   │   ├── ContactUsPage.js
+│   │   ├── ServicesPage.js
+│   │   ├── AboutUsPage.js
+│   │   ├── LoginPage.js
+│   │   ├── SigninPage.js
+│   │   └── PropertyDetailsPage.js
+│   │
+│   ├── App.js
+│   ├── index.js
+│   ├── App.css
+│   └── mockAPI.js
+│
+├── package.json
+├── .gitignore
+└── README.md
 <br>
 
 ### Components
@@ -55,15 +98,11 @@ ethio-properties/ │ ├── public/ │ ├── images/ │ │ ├── 
 - **Sorting.js**: Provides options to sort property listings.
 - **ContactForm.js**: Allows users to send inquiries to property managers.
 - **Authentication.js**: Manages user login for accessing property management features.
-
-<br>
 <br>
 
 ### Data
 
 - **mockData.js**: Contains mock property data used to populate the listings.
-
-<br>
 <br>
 
 ### Styling
@@ -71,13 +110,9 @@ ethio-properties/ │ ├── public/ │ ├── images/ │ │ ├── 
 - **App.css**: Contains global styles.
 - Each component also has its own CSS file for styling.
 
-<br>
-<br>
-
 ##
 
-
-## Setup Instructions
+# Setup Instructions
 
 To set up the project locally, follow these steps:
 
@@ -87,8 +122,6 @@ To set up the project locally, follow these steps:
     git clone https://ghp_aZBG7i81iV1G--------l7k046ZS04R0jRHng@github.com/BekaHabesha/ethio-properties.git
     cd ethio-properties
     ```
-
-<br>
 <br>
 
 2. **Install dependencies:**
@@ -98,8 +131,6 @@ To set up the project locally, follow these steps:
     ```
     npm install
     ```
-
-<br>
 <br>
 
 3. **Run the development server:**
@@ -108,9 +139,7 @@ To set up the project locally, follow these steps:
     npm start
     ```
 <br>
-* This will start the application and The app will be available at `**http://localhost:3000**`.
-
-<br>
+* This will start the application and The app will be available at **`http://localhost:3000`**.
 <br>
 
 4. **Build for production:**
@@ -121,9 +150,8 @@ To set up the project locally, follow these steps:
     npm run build
     ```
 <br>
-* The production-ready files will be in the `**build/**` directory.
+The production-ready files will be in the **`build/`** directory.
 
-<br>
 <br>
 
 5. **Deploy to GitHub Pages:**
@@ -134,15 +162,11 @@ To set up the project locally, follow these steps:
     npm run deploy
     ```
 
-* Make sure to set up the `**homepage**` field in `**package.json**` with your GitHub Pages URL.
-
-<br>
-<br>
+* Make sure to set up the **`homepage`** field in **`package.json`** with your GitHub Pages URL.
 
 ##
 
-
-## Usage Guidelines
+# Usage Guidelines
 
 1. **Navigating the Application:**
 
@@ -151,42 +175,31 @@ To set up the project locally, follow these steps:
     - **Sort:** Sort properties by price, location, size, and more.
     - **Contact Form:** Use the contact form to get in touch with property sellers.
     - **Authentication:** Log in or sign up to manage your property listings.
-
-<br>
 <br>
 
 2. **Adding/Editing Properties:**
 
     - Users must log in to add or edit property listings.
     - The listings can include details like the number of rooms, bedrooms, bathrooms, price, size, location, property type, and images.
-
-<br>
 <br>
 
 3. **Pagination:**
 
     - The property list is paginated for easier navigation when there are many properties.
-
-<br>
 <br>
 
 4. **Sorting:**
 
     - Properties can be sorted by various criteria, such as price, size, and location.
-
-<br>
 <br>
 
 5. **Mock Data:**
 
     - The app uses mock data provided in `mockData.js` to simulate backend functionality.
 
-<br>
-<br>
 ##
 
-
-## Features
+# Features
 
 - **Property Listings**: Browse through various property listings with details like price, size, location, and more.
 - **Search Functionality**: Search for properties based on location, price, type and other criteria.
@@ -195,28 +208,22 @@ To set up the project locally, follow these steps:
 - **Contact Form**: Allows users to send inquiries about properties.
 - **Authentication**: Simple login form to manage property listings.
 
-<br>
-<br>
 ##
 
-
-## Dependencies
+# Dependencies
 
 - **React**: JavaScript library for building user interfaces.
 - **React Router**: For routing within the application.
 - **Bootstrap**: For responsive design and styling.
 - **Axios**: For making HTTP requests (optional for future API integration).
 
-<br>
-<br>
 ##
 
-
-## License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.<br>
 <br>
-This `README.md` provides a comprehensive overview of the project, detailed setup instructions, and clear usage guidelines. It also explains the project architecture, making it easy for other developers to understand and contribute to the project.
+This **`README.md`** provides a comprehensive overview of the project, detailed setup instructions, and clear usage guidelines. It also explains the project architecture, making it easy for other developers to understand and contribute to the project.
 
 ##
 
