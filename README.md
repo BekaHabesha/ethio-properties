@@ -1,4 +1,4 @@
-# $\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$
+$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$
 # ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ 
 # $$\mathbb{\color{green}\Huge\ {ALX} \ \color{teal}{Front \ End}\}$$ $$\mathbb{\color{green}\Huge\ {Specialization}\}$$
 # $$\mathbb{\color{blue}\Huge\ {Portofolio}\}$$ $$\mathbb{\color{green}\Huge\ {Project}\}$$
