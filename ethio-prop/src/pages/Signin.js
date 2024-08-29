@@ -1,12 +1,25 @@
 import React from 'react';
-import Auth from '../components/Auth';
 
 const Signin = () => {
   return (
-    <div className="signin">
+    <main className="signin-page">
       <h1>Sign Up</h1>
-      <Auth type="signin" />
-    </div>
+      <form>
+        <label>
+          Name:
+          <input type="text" name="name" required />
+        </label>
+        <label>
+          Email:
+          <input type="email" name="email" required />
+        </label>
+        <label>
+          Password:
+          <input type="password" name="password" required />
+        </label>
+        <button type="submit">Sign Up</button>
+      </form>
+    </main>
   );
 };
 
