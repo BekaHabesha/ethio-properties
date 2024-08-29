@@ -1,13 +1,20 @@
 import React from 'react';
-import Auth from '../components/Auth';
 
 const Login = () => {
   return (
-    <div className="login">
+    <main className="login-page">
       <h1>Login</h1>
-      <Auth type="login" />
-    </div>
+      <form>
+        <label>
+          Email:
+          <input type="email" name="email" required />
+        </label>
+        <label>
+          Password:
+          <input type="password" name="password" required />
+        </label>
+        <button type="submit">Login</button>
+      </form>
+    </main>
   );
 };
-
-export default Login;
