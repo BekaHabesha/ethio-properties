@@ -1,26 +1,24 @@
 <H1 align="center", height="5500"> $\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$</H1>
-# ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ 
-# $$\mathbb{\color{green}\Huge\ {ALX} \ \color{teal}{Front \ End}\}$$ $$\mathbb{\color{green}\Huge\ {Specialization}\}$$
-# $$\mathbb{\color{blue}\Huge\ {Portofolio}\}$$ $$\mathbb{\color{green}\Huge\ {Project}\}$$
-# $$\mathbb{\color{teal}\Huge\ {Repository}\}$$
-# ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
-
-<br>
+<H1 align="center", height="5500"> ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$</H1>
+<H1 align="center", height="5500"> $$\mathbb{\color{green}\Huge\ {ALX} \ \color{teal}{Front \ End}\}$$ $$\mathbb{\color{green}\Huge\ {Specialization}\}$$</H1>
+<H1 align="center", height="5500"> $$\mathbb{\color{teal}\Huge\ {Portofolio}\}$$ $$\mathbb{\color{green}\Huge\ {Project}\}$$</H1>
+<H1 align="center", height="5500"> $$\mathbb{\color{teal}\Huge\ {Repository}\}$$</H1>
+<H1 align="center", height="5500"> ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$</H1>
 <br>
 
 ### [**ALX Short Specializations Portfolio project**](https://intranet.alxswe.com/projects/1248) *is the portfolio project of the Webstack specialization Repo of the last-major-project of the  end my pathway at Holberton.*
-### <ins>**Authored by</ins>:*** 
-* **Bereket Dereje Mekonnen***
+### <ins>**Authored by</ins>:**
+* ***Bereket Dereje Mekonnen***
 
 ##
 
-<H1 align="center", height="5500"> 🏡🏬🏠🏢🏭 <ins>Ethio-Properties Web App</ins> 🏭🏢🏠🏬🏡</H1>
+<H1 align="center", height="5500"> 🏡🏬🏠🏢 <ins>Ethio-Properties Web App</ins> 🏢🏠🏬🏡</H1>
 
-### Ethio-Properties is Ethiopia's Real Estate Properties listing web application developed using React, HTML, and CSS. Ethio-Properties website app is a User-friendly interface, Real-time updates, use mock API tools to simulate backend functionality, Advanced search filters (location, price, property type). It allows users to browse, search, sort, and filter property listings, as well as contact sellers and manage property listings with user authentication.
+**Ethio-Properties is Ethiopia's Real Estate Properties listing web application developed using React, HTML, and CSS. Ethio-Properties website app is a User-friendly interface, Real-time updates, use mock API tools to simulate backend functionality, Advanced search filters (location, price, property type). It allows users to browse, search, sort, and filter property listings, as well as contact sellers and manage property listings with user authentication.**
 <br>
-<br>
-**To The future It will adding and allows secure payment gateways, interactive maps, Review and rating system for properties and agents.  with Detailed property listings of photos and videos, virtual tours, Clear and consistent pricing information, Interactive maps for accurate site locations and Direct messaging between buyers and sellers.**
+To The future It will adding and allows secure payment gateways, interactive maps, Review and rating system for properties and agents.  with Detailed property listings of photos and videos, virtual tours, Clear and consistent pricing information, Interactive maps for accurate site locations and Direct messaging between buyers and sellers.
 
+<br>
 <br>
 
 # Table of Contents
@@ -41,50 +39,50 @@
 
 The project is structured as follows:
 
-ethio-properties/
-│
-├── public/
-│   ├── index.html
-│   ├── images/
-│   │   ├── logo_with_name.png
-│   │   ├── ET33c.png
-│   │   ├── property1.jpg
-│   │   ├── property2.jpg
-│   │   └── property3.jpg
-│   └── favicon.ico
-│
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── Footer.js
-│   │   ├── PropertyList.js
-│   │   ├── PropertyCard.js
-│   │   ├── SearchBar.js
-│   │   ├── Pagination.js
-│   │   ├── Sorting.js
-│   │   ├── ContactForm.js
-│   │   └── Authentication.js
-│   │
-│   ├── data/
-│   │   ├── mockProperties.js
-│   │
-│   ├── pages/
-│   │   ├── HomePage.js
-│   │   ├── ContactUsPage.js
-│   │   ├── ServicesPage.js
-│   │   ├── AboutUsPage.js
-│   │   ├── LoginPage.js
-│   │   ├── SigninPage.js
-│   │   └── PropertyDetailsPage.js
-│   │
-│   ├── App.js
-│   ├── index.js
-│   ├── App.css
-│   └── mockAPI.js
-│
-├── package.json
-├── .gitignore
-└── README.md
+ethio-properties/<br>
+│<br>
+├── public/<br>
+│   ├── index.html<br>
+│   ├── images/<br>
+│   │   ├── logo_with_name.png<br>
+│   │   ├── ET33c.png<br>
+│   │   ├── property1.jpg<br>
+│   │   ├── property2.jpg<br>
+│   │   └── property3.jpg<br>
+│   └── favicon.ico<br>
+│<br>
+├── src/<br>
+│   ├── components/<br>
+│   │   ├── Header.js<br>
+│   │   ├── Footer.js<br>
+│   │   ├── PropertyList.js<br>
+│   │   ├── PropertyCard.js<br>
+│   │   ├── SearchBar.js<br>
+│   │   ├── Pagination.js<br>
+│   │   ├── Sorting.js<br>
+│   │   ├── ContactForm.js<br>
+│   │   └── Authentication.js<br>
+│   │<br>
+│   ├── data/<br>
+│   │   ├── mockProperties.js<br>
+│   │<br>
+│   ├── pages/<br>
+│   │   ├── HomePage.js<br>
+│   │   ├── ContactUsPage.js<br>
+│   │   ├── ServicesPage.js<br>
+│   │   ├── AboutUsPage.js<br>
+│   │   ├── LoginPage.js<br>
+│   │   ├── SigninPage.js<br>
+│   │   └── PropertyDetailsPage.js<br>
+│   │<br>
+│   ├── App.js<br>
+│   ├── index.js<br>
+│   ├── App.css<br>
+│   └── mockAPI.js<br>
+│<br>
+├── package.json<br>
+├── .gitignore<br>
+└── README.md<br>
 <br>
 
 ### Components
@@ -139,7 +137,7 @@ To set up the project locally, follow these steps:
     npm start
     ```
 <br>
-* This will start the application and The app will be available at **`http://localhost:3000`**.
+* This will start the application and The app will be available at `http://localhost:3000`.
 <br>
 
 4. **Build for production:**
@@ -150,7 +148,7 @@ To set up the project locally, follow these steps:
     npm run build
     ```
 <br>
-The production-ready files will be in the **`build/`** directory.
+The production-ready files will be in the `build/` directory.
 
 <br>
 
